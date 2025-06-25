@@ -1,10 +1,5 @@
 # 📊 Crypto Dashboard - Monitor em Tempo Real
 
-![Demo Image](./public/social-preview.jpg)  
-*Dashboard interativo para monitoramento de criptomoedas com dados em tempo real.*
-
----
-
 ## 🚀 Sobre o projeto
 
 Crypto Dashboard é uma aplicação web construída com **Vue.js**, **Chart.js** e integrações via API do **CoinGecko** e WebSocket da **Binance** para oferecer dados atualizados em tempo real sobre o mercado de criptomoedas.
